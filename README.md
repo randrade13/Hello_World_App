@@ -5,7 +5,7 @@ CODEPATH Mobile App Design - iOS Pre-work Project
 
 ### App Walk-though
 
-<img src= http://recordit.co/Dwa8cQP7No width=200><br>
+<img src="http://g.recordit.co/Dwa8cQP7No.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
